@@ -34,3 +34,5 @@
 
 ## Стек
 Python (pandas, matplotlib, scipy), Jupyter Notebook.
+
+Датасет доступен на Kaggle: [Mobile Games A/B Testing - Cookie Cats](https://www.kaggle.com/datasets/zahrazolghadr/ab-test-cookie-cats?select=cookie_cats.txt)
